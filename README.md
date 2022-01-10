@@ -17,3 +17,4 @@ TypeScript type challenges solutions collection
 - [14 - 第一个元素](./14-第一个元素.ts)
 - [18 - 获取元组长度](./18-获取元组长度.ts)
 - [43 - Exclude](./43-Exclude.js)
+- [189 - Awaited](./189-Awaited.ts)
