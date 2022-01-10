@@ -22,3 +22,4 @@ TypeScript type challenges solutions collection
 - [533 - Concat](./533-Concat.ts)
 - [898 - Includes](./898-Includes.ts)
 - [3057 - Push](./3057-Push.ts)
+- [3060 - Unshift](./3060-Unshift.ts)
