@@ -16,3 +16,4 @@ TypeScript type challenges solutions collection
 - [11 - 元组转换为对象](./11-元组转换为对象.ts)
 - [14 - 第一个元素](./14-第一个元素.ts)
 - [18 - 获取元组长度](./18-获取元组长度.ts)
+- [43 - Exclude](./43-Exclude.js)
