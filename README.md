@@ -20,3 +20,4 @@ TypeScript type challenges solutions collection
 - [189 - Awaited](./189-Awaited.ts)
 - [268 - If](./268-If.ts)
 - [533 - Concat](./533-Concat.ts)
+- [898 - Includes](./898-Includes.ts)
