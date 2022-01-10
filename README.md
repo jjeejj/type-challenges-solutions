@@ -23,3 +23,4 @@ TypeScript type challenges solutions collection
 - [898 - Includes](./898-Includes.ts)
 - [3057 - Push](./3057-Push.ts)
 - [3060 - Unshift](./3060-Unshift.ts)
+- [3312 - Parameters](./3312-Parameters.ts)
