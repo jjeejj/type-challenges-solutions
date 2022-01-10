@@ -3,7 +3,13 @@
 <https://github.com/type-challenges/type-challenges>
 TypeScript type challenges solutions collection
 
-# 练习顺序
+## 练习顺序
+
+### 热身
+
+- [13 - Hello World](./13-helloworld.ts)
+
+### 简单
 
 - [4 - 实现 Pick](./4-实现Pick.ts)
-- [13 - Hello World](./13-helloworld.ts)
+- [7 - 实现 Readonly](./7-实现Readonly.ts)
