@@ -13,3 +13,4 @@ TypeScript type challenges solutions collection
 
 - [4 - 实现 Pick](./4-实现Pick.ts)
 - [7 - 实现 Readonly](./7-实现Readonly.ts)
+- [11 - 元组转换为对象](./11-元组转换为对象.ts)
