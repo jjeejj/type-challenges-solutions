@@ -21,3 +21,4 @@ TypeScript type challenges solutions collection
 - [268 - If](./268-If.ts)
 - [533 - Concat](./533-Concat.ts)
 - [898 - Includes](./898-Includes.ts)
+- [3057 - Push](./3057-Push.ts)
