@@ -18,3 +18,4 @@ TypeScript type challenges solutions collection
 - [18 - 获取元组长度](./18-获取元组长度.ts)
 - [43 - Exclude](./43-Exclude.js)
 - [189 - Awaited](./189-Awaited.ts)
+- [268 -If](./268-If.ts)
