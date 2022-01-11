@@ -28,3 +28,4 @@ TypeScript type challenges solutions collection
 ### 中等
 
 - [2 - 获取函数返回类型](./2-获取函数返回类型.ts)
+- [3 - 实现Omit](./3-实现Omit.ts)
