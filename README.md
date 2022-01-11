@@ -24,3 +24,7 @@ TypeScript type challenges solutions collection
 - [3057 - Push](./3057-Push.ts)
 - [3060 - Unshift](./3060-Unshift.ts)
 - [3312 - Parameters](./3312-Parameters.ts)
+
+### 中等
+
+- [2 - 获取函数返回类型](./2-获取函数返回类型.ts)
